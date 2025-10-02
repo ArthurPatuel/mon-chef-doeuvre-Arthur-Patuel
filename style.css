@@ -28,3 +28,8 @@ a {
     text-decoration: none;
     color: rgb(19, 18, 18);
 }
+
+section {
+    padding: 2rem 0;
+    border-top: 0;
+}
