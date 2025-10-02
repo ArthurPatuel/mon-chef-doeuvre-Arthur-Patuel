@@ -12,7 +12,7 @@ body {
 
 header {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     padding: 1rem 2rem;
     background-color: rgb(146, 208, 212);
@@ -31,5 +31,5 @@ a {
 
 section {
     padding: 2rem 0;
-    border-top: 0;
+    border-top: 12px;
 }
